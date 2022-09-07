@@ -1,0 +1,10 @@
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\bin\Debug\AcmeDB.dacpac
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\bin\Debug\AcmeDB.dll
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\bin\Debug\AcmeDB.pdb
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\AcmeDB.sqlproj.AssemblyReference.cache
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\Model.xml
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\refactor.xml
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\postdeploy.sql
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\predeploy.sql
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\AcmeDB.dll
+D:\Visual studio Projects\WebApplication1.sln\AcmeDB\obj\Debug\AcmeDB.pdb
